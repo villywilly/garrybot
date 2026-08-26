@@ -1,0 +1,551 @@
+2026-08-06 10:36:49.712362 - notarealcircle: ;send-current-set-message
+2026-08-06 10:39:33.937980 - notarealcircle: ;log
+2026-08-06 10:40:42.231168 - european_pancakes: ;log
+2026-08-06 10:40:45.286881 - european_pancakes: Ah
+2026-08-06 10:41:10.966167 - notarealcircle: ;1984
+2026-08-06 10:44:02.657387 - notarealcircle: ls
+2026-08-06 10:44:06.442856 - notarealcircle: ;ls
+2026-08-06 10:44:18.857122 - notarealcircle: ;log-secret
+2026-08-06 10:46:05.799475 - notarealcircle: ;ls
+2026-08-06 10:46:40.139296 - notarealcircle: ;log-secret
+2026-08-06 10:47:08.264390 - notarealcircle: [𝚄𝚗𝚜𝚙𝚒𝚛𝚕𝚒𝚗𝚐]
+2026-08-06 11:45:16.384288 - notarealcircle: ;ls
+2026-08-06 11:45:21.110493 - notarealcircle: ;clean 1
+2026-08-06 11:45:31.188352 - notarealcircle: ;stop
+2026-08-06 11:46:59.435055 - notarealcircle: ;clean 2 <@1381471125216956426>
+2026-08-06 11:48:01.250852 - notarealcircle: ;clean 2 <@1381471125216956426>
+2026-08-06 11:50:29.089319 - notarealcircle: ;ls
+2026-08-06 11:50:34.829647 - notarealcircle: ;purge
+2026-08-06 11:50:39.735336 - notarealcircle: ;clean 2
+2026-08-06 11:50:46.637853 - notarealcircle: ;clean 3
+2026-08-06 11:51:02.096645 - notarealcircle: ;clean 4
+2026-08-06 11:51:33.560288 - notarealcircle: ;log-secret
+2026-08-06 11:56:47.939807 - notarealcircle: ;warn <@1138621441345065060>  being grounded
+2026-08-06 11:58:26.010584 - notarealcircle: ;warn <@1138621441345065060> being grounded
+2026-08-06 11:58:40.279472 - notarealcircle: ;clean 2
+2026-08-06 12:03:48.252869 - notarealcircle: ;warn <@1315852798742757471> test
+2026-08-06 12:07:15.063341 - notarealcircle: ;warn <@1315852798742757471> test
+2026-08-15 15:53:30.791759 - notarealcircle: Wait
+2026-08-15 15:55:19.950697 - notarealcircle: a
+2026-08-15 15:55:20.359479 - notarealcircle: b
+2026-08-15 15:55:20.569463 - notarealcircle: c
+2026-08-15 15:55:21.179063 - notarealcircle: d
+2026-08-15 15:55:23.021715 - notarealcircle: ;clean 4
+2026-08-15 15:55:42.580788 - notarealcircle: ;warn
+2026-08-15 15:55:48.827086 - notarealcircle: ;warn <@1315852798742757471> test
+2026-08-15 16:01:44.668461 - notarealcircle: ;warn
+2026-08-15 16:02:22.563128 - notarealcircle: ;warn
+2026-08-15 16:02:30.983201 - notarealcircle: ;warn <@1315852798742757471> test
+2026-08-15 16:02:38.672750 - notarealcircle: ;warn test
+2026-08-15 16:03:41.303709 - notarealcircle: ;warn <@1138621441345065060> larp
+2026-08-15 16:04:02.704692 - notarealcircle: .warn <@1138621441345065060> larp
+2026-08-15 16:04:04.171166 - Sapphire#8184: 
+2026-08-15 16:04:25.027637 - notarealcircle: ;warn <@1315852798742757471> test
+2026-08-15 16:05:28.329767 - notarealcircle: ;log-secret
+2026-08-15 16:06:11.524056 - notarealcircle: ;clean 4
+2026-08-15 16:06:48.300349 - notarealcircle: <@1330360569118589021>
+2026-08-15 16:07:30.681287 - notarealcircle: ;log-secret
+2026-08-15 17:22:29.850422 - fallout_fan_15: <@1138621441345065060>
+2026-08-15 17:22:44.205540 - fallout_fan_15: TikTok streak pls
+2026-08-15 17:23:14.497045 - notarealcircle: <@1138621441345065060>
+2026-08-15 17:23:19.538195 - notarealcircle: deltarune streak pls
+2026-08-15 17:23:32.622403 - defrealedwardrob_92568: <@1138621441345065060>
+2026-08-15 17:23:35.489413 - defrealedwardrob_92568: larp streak
+2026-08-15 17:27:03.248984 - notarealcircle: ;send-current-set-message
+2026-08-15 17:27:43.245747 - notarealcircle: <@1330360569118589021>
+2026-08-15 17:27:50.922119 - defrealedwardrob_92568: https://klipy.com/gifs/awa-de-uwu
+2026-08-15 17:28:01.305692 - notarealcircle: mustve been the <@1138621441345065060>
+2026-08-15 17:28:24.463185 - notarealcircle: ;log-secret
+2026-08-15 17:28:48.834529 - notarealcircle: ;log-public
+2026-08-15 17:28:56.104888 - notarealcircle: ;clean 4
+2026-08-15 17:30:04.844226 - notarealcircle: deltarune.com/7b
+2026-08-15 17:30:13.007808 - notarealcircle: https://deltarune.com/7b
+2026-08-15 17:36:03.741325 - notarealcircle: @everyone
+2026-08-15 17:36:10.773812 - notarealcircle: my brother is the original
+2026-08-15 17:36:11.613846 - defrealedwardrob_92568: https://klipy.com/gifs/awa-de-uwu
+2026-08-15 17:36:12.123714 - notarealcircle: starwalker
+2026-08-15 17:36:18.680151 - ender2463: What
+2026-08-15 17:36:20.629592 - notarealcircle: ts was not the mason
+2026-08-15 17:36:28.716586 - defrealedwardrob_92568: fr
+2026-08-15 17:36:30.614098 - notarealcircle: <@1351684877346410587>
+2026-08-15 17:37:31.470978 - notarealcircle: <@1351684877346410587>
+2026-08-15 17:37:58.340211 - defrealedwardrob_92568: ?
+2026-08-15 17:38:00.261673 - defrealedwardrob_92568: what
+2026-08-15 17:38:09.784239 - defrealedwardrob_92568: thats AI
+2026-08-15 17:38:28.939817 - notarealcircle: hmm
+2026-08-15 17:38:32.721829 - notarealcircle: lets do a democratic vote
+2026-08-15 17:39:08.986950 - notarealcircle: 
+2026-08-15 17:39:13.850625 - notarealcircle: 
+2026-08-15 17:39:17.504977 - notarealcircle: well well well
+2026-08-15 17:39:19.208142 - defrealedwardrob_92568: YO :Sobn
+2026-08-15 17:39:19.737851 - defrealedwardrob_92568: \
+2026-08-15 17:39:21.484006 - notarealcircle: looks like everyone agrees
+2026-08-15 17:39:23.546069 - notarealcircle: that it isnt ai
+2026-08-15 17:39:27.097081 - defrealedwardrob_92568: 😭
+2026-08-15 17:39:30.476025 - oatnh: shut the fuck up
+2026-08-15 17:39:33.342962 - oatnh: I'm trying to sleep
+2026-08-15 17:39:38.156046 - defrealedwardrob_92568: its 11 AM.
+2026-08-15 17:39:40.408758 - defrealedwardrob_92568: you bum
+2026-08-15 17:39:42.456491 - notarealcircle: turn on do not disturb?
+2026-08-15 17:39:48.601331 - oatnh: I'm too fucking lazy
+2026-08-15 17:39:50.955871 - oatnh: so shut the fuck up
+2026-08-15 17:39:53.311132 - notarealcircle: no
+2026-08-15 17:39:55.359296 - fallout_fan_15: Mf ur typing
+2026-08-15 17:40:01.400995 - fallout_fan_15: Turn on sleep mode
+2026-08-15 17:40:01.791078 - oatnh: shut the fuck up ralsei
+2026-08-15 17:40:04.473074 - oatnh: you furry little shit
+2026-08-15 17:40:10.106400 - fallout_fan_15: Go fuck yrself
+2026-08-15 17:40:12.153401 - fallout_fan_15: Dick
+2026-08-15 17:45:03.549270 - fallout_fan_15: You had time to think oat?
+2026-08-15 17:45:12.178967 - fallout_fan_15: Now turn on do not disturb
+2026-08-15 17:45:15.427291 - defrealedwardrob_92568: https://cdn.discordapp.com/attachments/1350265015613132832/1350746735550660680/IMG_4827.gif
+2026-08-15 17:45:25.491218 - fallout_fan_15: https://klipy.com/gifs/checkmate-19
+2026-08-15 18:52:44.223686 - fallout_fan_15: Mason
+2026-08-15 18:52:45.546233 - fallout_fan_15: Dude
+2026-08-15 18:52:51.439696 - fallout_fan_15: We’re gonna lose Goob
+2026-08-15 18:52:54.149186 - defrealedwardrob_92568: https://klipy.com/gifs/awa-de-uwu
+2026-08-15 19:48:54.159388 - notarealcircle: hiktreiog
+2026-08-15 20:04:30.780367 - mrnodrippmason: fym i was warned
+2026-08-15 20:05:14.052347 - defrealedwardrob_92568: https://tenor.com/view/larp-shrek-larping-meme-shrek-meme-gif-4316268640720401792
+2026-08-15 20:05:21.975889 - mrnodrippmason: why?
+2026-08-15 20:05:27.216973 - mrnodrippmason: i have been playing deltarune
+2026-08-15 20:05:29.398584 - defrealedwardrob_92568: https://tenor.com/view/larp-shrek-larping-meme-shrek-meme-gif-4316268640720401792
+2026-08-15 20:05:35.142449 - defrealedwardrob_92568: https://tenor.com/view/larp-shrek-larping-meme-shrek-meme-gif-4316268640720401792
+2026-08-15 20:05:57.353848 - mrnodrippmason: Whenever someone says i’m larping it means that im not larping now
+2026-08-15 20:06:05.982320 - defrealedwardrob_92568: https://tenor.com/view/larp-shrek-larping-meme-shrek-meme-gif-4316268640720401792
+2026-08-15 20:06:24.880136 - mrnodrippmason: ok i’m not larping
+2026-08-15 20:06:31.158421 - notarealcircle: looks like noelle holilarp has returned
+2026-08-15 20:06:38.025113 - mrnodrippmason: L ragebait
+2026-08-15 20:06:44.592152 - mrnodrippmason: i’ll delete undertale
+2026-08-15 20:06:47.729171 - mrnodrippmason: if that’s what you want
+2026-08-15 20:06:52.780604 - defrealedwardrob_92568: https://tenor.com/view/larp-shrek-larping-meme-shrek-meme-gif-4316268640720401792
+2026-08-15 20:06:57.155073 - defrealedwardrob_92568: https://tenor.com/view/larp-shrek-larping-meme-shrek-meme-gif-4316268640720401792
+2026-08-15 20:07:02.323885 - defrealedwardrob_92568: https://tenor.com/view/larp-shrek-larping-meme-shrek-meme-gif-4316268640720401792
+2026-08-15 20:07:07.161833 - defrealedwardrob_92568: https://tenor.com/view/larp-shrek-larping-meme-shrek-meme-gif-4316268640720401792
+2026-08-15 20:07:19.586924 - notarealcircle: dont know what that has to do witha nything
+2026-08-15 20:07:22.837728 - mrnodrippmason: /purge 15
+2026-08-15 20:07:26.297085 - mrnodrippmason: shit
+2026-08-15 20:07:33.103460 - Phoenix#8526: 
+2026-08-15 20:07:49.876956 - mrnodrippmason: What’s the point of calling me larp if i’m playing the game
+2026-08-15 20:07:56.136981 - notarealcircle: .clean 2
+2026-08-15 20:07:57.049913 - Sapphire#8184: 
+2026-08-15 20:08:01.053587 - mrnodrippmason: that’s the only reason i bought the game
+2026-08-15 20:08:06.583303 - notarealcircle: ;clean 3
+2026-08-15 20:08:10.771736 - notarealcircle: ;clean 2
+2026-08-15 20:08:11.854522 - mrnodrippmason: wtv
+2026-08-15 20:08:17.191716 - defrealedwardrob_92568: https://tenor.com/view/larp-shrek-larping-meme-shrek-meme-gif-4316268640720401792
+2026-08-15 20:08:21.804270 - notarealcircle: welcome back to fun facts
+2026-08-15 20:08:24.093431 - Phoenix#8526: 
+2026-08-15 20:08:26.340849 - notarealcircle: with gaster
+2026-08-15 20:08:33.411782 - notarealcircle: yo
+2026-08-15 20:08:35.410982 - mrnodrippmason: SHIT
+2026-08-15 20:08:35.770872 - notarealcircle: what happened
+2026-08-15 20:08:39.658081 - mrnodrippmason: I DIDNT MEAN TO DO THAT
+2026-08-15 20:08:40.026932 - notarealcircle: yo
+2026-08-15 20:08:42.062670 - mrnodrippmason: FUCK
+2026-08-15 20:08:47.400224 - notarealcircle: .ban <@1230149118710779914>
+2026-08-15 20:08:49.100286 - Sapphire#8184: 
+2026-08-15 20:08:58.135950 - mrnodrippmason: that’s better
+2026-08-15 20:09:10.213002 - notarealcircle: .mute <@1138621441345065060> deleting like 100 msgs
+2026-08-15 20:09:12.840086 - Sapphire#8184: 
+2026-08-15 20:09:13.859727 - defrealedwardrob_92568: what happened?
+2026-08-15 20:09:20.612341 - notarealcircle: .unmute <@1138621441345065060>
+2026-08-15 20:09:22.073202 - Sapphire#8184: 
+2026-08-15 20:09:30.443444 - notarealcircle: .mute <@1138621441345065060> deleting like 100 msgs 5mins
+2026-08-15 20:09:31.931463 - Sapphire#8184: 
+2026-08-15 20:09:39.937501 - notarealcircle: .unmute <@1138621441345065060>
+2026-08-15 20:09:40.989014 - Sapphire#8184: 
+2026-08-15 20:09:43.549951 - notarealcircle: nbm
+2026-08-15 20:09:46.947925 - mrnodrippmason: for a month?
+2026-08-15 20:09:54.886831 - mrnodrippmason: feel like that’s a bit overkill
+2026-08-15 20:10:10.693915 - notarealcircle: .warn Noelle Holilarp deleting like 100 msgs
+2026-08-15 20:10:11.211230 - Sapphire#8184: 
+2026-08-15 20:10:14.408430 - Sapphire#8184: 
+2026-08-15 20:10:18.438810 - mrnodrippmason: sure
+2026-08-15 20:10:20.419731 - mrnodrippmason: that’s fine
+2026-08-15 20:10:43.949358 - notarealcircle: .mute <@1138621441345065060> deleting like 100 messages 5minutes
+2026-08-15 20:10:44.279822 - Sapphire#8184: 
+2026-08-15 20:10:49.733740 - Sapphire#8184: 
+2026-08-15 20:10:54.314420 - mrnodrippmason: ❤️❤️❤️
+2026-08-15 20:11:07.408926 - mrnodrippmason: come kn
+2026-08-15 20:11:08.958161 - mrnodrippmason: on
+2026-08-15 20:12:44.238919 - Nekotina#0608: 
+2026-08-15 20:16:25.923835 - mrnodrippmason: yay
+2026-08-15 20:16:48.594812 - notarealcircle: :ls
+2026-08-15 20:16:51.654504 - notarealcircle: ;ls
+2026-08-15 20:17:12.833298 - notarealcircle: ;clean 2
+2026-08-15 20:17:20.773798 - notarealcircle: ;log-secret
+2026-08-15 20:19:23.684484 - notarealcircle: Mason why did you even do that
+2026-08-15 20:19:39.219712 - mrnodrippmason: it was an accident
+2026-08-15 20:19:44.058831 - notarealcircle: How
+2026-08-15 20:19:59.124489 - mrnodrippmason: i accidentally pressed enter
+2026-08-15 20:20:10.640286 - mrnodrippmason: ~How
+2026-08-15 20:20:11.672186 - Green Pirate Gaster#0000: How
+2026-08-15 20:20:19.155684 - notarealcircle: .help clean
+2026-08-15 20:20:19.385066 - Sapphire#8184: 
+2026-08-15 20:20:27.961793 - notarealcircle: .help purge
+2026-08-15 20:20:28.188358 - Sapphire#8184: 
+2026-08-15 20:20:42.195248 - notarealcircle: Those commands are the same thing
+2026-08-15 20:20:52.994403 - notarealcircle: ;clean 6
+2026-08-15 20:34:19.760969 - 15goldensonic_ohno: 
+2026-08-15 20:34:26.519507 - ender2463: 
+2026-08-15 20:34:32.871724 - mrnodrippmason: 
+2026-08-15 20:35:26.422538 - notarealcircle: Is this Andy?
+2026-08-15 20:35:37.901524 - mrnodrippmason: <@1315852798742757471> are these two different accounts?
+2026-08-15 20:35:40.451860 - mrnodrippmason: they have the same user
+2026-08-15 20:35:43.952773 - lukekungfu: Yes
+2026-08-15 20:36:21.356768 - mrnodrippmason: <@1315852798742757471>
+2026-08-15 20:36:50.596062 - notarealcircle: I have nitro for the 500mb file uploads
+2026-08-15 20:36:58.923985 - mrnodrippmason: ?
+2026-08-15 20:36:59.915782 - mrnodrippmason: wdym
+2026-08-15 20:37:02.679603 - mrnodrippmason: i’m confused
+2026-08-15 20:37:06.365857 - notarealcircle: Nvm
+2026-08-15 20:37:18.551805 - mrnodrippmason: is it two different accounts?
+2026-08-15 20:38:50.392929 - defrealedwardrob_92568: why 😭
+2026-08-15 20:38:55.923881 - defrealedwardrob_92568: its NOT worth that
+2026-08-15 22:09:07.900755 - notarealcircle: ;yttl
+2026-08-15 22:10:50.198940 - notarealcircle: Don’t delete 815 messages
+2026-08-15 22:10:52.506903 - notarealcircle: .lock
+2026-08-15 22:10:53.048276 - Sapphire#8184: 
+2026-08-15 22:11:03.720169 - notarealcircle: ;1984
+2026-08-15 22:12:27.683971 - notarealcircle: ;dbgg
+2026-08-15 22:12:53.695096 - notarealcircle: <@1138621441345065060>
+2026-08-15 22:13:10.282748 - notarealcircle: Have you played past the first 10 minutes yet
+2026-08-15 22:14:47.021592 - notarealcircle: .list commands
+2026-08-15 22:14:47.460874 - Sapphire#8184: 
+2026-08-15 22:15:07.838311 - notarealcircle: .help log
+2026-08-15 22:15:07.893066 - Sapphire#8184: 
+2026-08-15 22:15:16.306156 - notarealcircle: .log
+2026-08-15 22:15:16.747877 - Sapphire#8184: 
+2026-08-15 22:15:31.288310 - notarealcircle: ;clean 5
+2026-08-16 01:49:46.536883 - notarealcircle: .sendmessage нет
+2026-08-16 01:49:46.664085 - Sapphire#8184: нет
+2026-08-16 01:49:47.151436 - Sapphire#8184: 
+2026-08-16 03:16:52.924150 - notarealcircle: Jan - jevil January
+Feb - flowery February (flowerary)
+Mar - Maus
+Apr - asriel April 
+Jun - jockington June
+Jul -  Jackenstein July
+Aug - aqua august (aqust)
+Sep - Seth September (sethtember)
+Oct - orange october (orangetober)
+Nov - Noelle November (noelleber)
+Dec - december december  (dessember)
+
+—
+
+Sun - sans sunday (sansday)
+Mon - mettaton Monday 
+Tue- Tenna tuesday
+Wed - werewire
+Thu- Toby Thursday 
+Fri - Flowey Friday
+Sat - snowdrake Saturday
+2026-08-16 03:17:07.083252 - notarealcircle: I made another one of these
+2026-08-16 03:17:08.828991 - notarealcircle: Bc I forgot the old one
+2026-08-16 03:17:19.593329 - notarealcircle: Plus chapter 5 chars
+2026-08-16 03:52:42.755275 - fallout_fan_15: Today is the of 15th of last seed
+2026-08-16 03:52:52.177262 - defrealedwardrob_92568: https://cdn.discordapp.com/attachments/1276949986227126397/1326239280921837599/togif.gif
+2026-08-16 03:53:03.748392 - notarealcircle: Hmm
+2026-08-16 03:53:18.562121 - fallout_fan_15: Tf is that supposed to mean
+2026-08-16 03:53:24.536949 - defrealedwardrob_92568: https://cdn.discordapp.com/attachments/1276949986227126397/1326239280921837599/togif.gif
+2026-08-16 03:53:35.006707 - fallout_fan_15: https://cdn.discordapp.com/attachments/1350265015613132832/1350746735550660680/IMG_4827.gif
+2026-08-16 03:53:45.707619 - defrealedwardrob_92568: https://cdn.discordapp.com/attachments/1276949986227126397/1326239280921837599/togif.gif
+2026-08-16 03:53:53.206275 - fallout_fan_15: https://cdn.discordapp.com/attachments/1276949986227126397/1326239280921837599/togif.gif
+2026-08-16 03:55:14.754701 - defrealedwardrob_92568: https://cdn.discordapp.com/attachments/1276949986227126397/1326239280921837599/togif.gif
+2026-08-16 05:11:13.162828 - european_pancakes: Have a Totally Exciting Day! (Total emu death)
+2026-08-16 17:21:04.534497 - notarealcircle: ;send-current-set-message
+2026-08-16 17:22:05.038336 - defrealedwardrob_92568: cap
+2026-08-16 17:22:07.291142 - defrealedwardrob_92568: Ai
+2026-08-16 17:22:40.780641 - notarealcircle: ;send-current-set-message
+2026-08-16 17:23:20.701406 - notarealcircle: ;send-current-set-message
+2026-08-16 17:23:29.147099 - notarealcircle: <:ts_2:1537679945747136582>
+2026-08-16 17:24:18.247401 - defrealedwardrob_92568: <:emoji_1:1536907916743811082>
+2026-08-16 17:29:07.251436 - notarealcircle: ;ls
+2026-08-16 17:29:57.177052 - notarealcircle: <@1138621441345065060> remember ts
+2026-08-16 17:52:17.631003 - notarealcircle: ;ping
+2026-08-16 18:35:43.785585 - notarealcircle: ;send-current-set-message
+2026-08-16 18:35:52.537119 - notarealcircle: ;clean 8
+2026-08-16 18:36:07.570163 - lukekungfu: It’s all ai
+2026-08-16 18:36:17.749887 - notarealcircle: Even mason is ai
+2026-08-16 18:37:51.314116 - lukekungfu: .warn <@964909770567983114> because I want to
+2026-08-16 18:37:51.419171 - Sapphire#8184: 
+2026-08-16 18:37:54.611276 - Sapphire#8184: 
+2026-08-16 18:38:08.620003 - notarealcircle: .warn <@1524574205687894099> warning ppl
+2026-08-16 18:38:09.541316 - Sapphire#8184: 
+2026-08-16 18:38:26.734218 - notarealcircle: .warn <@877724598840459336> larp
+2026-08-16 18:38:28.447215 - Sapphire#8184: 
+2026-08-16 18:38:47.631404 - lukekungfu: .warn <@1315852798742757471> ruining my day and warning me
+2026-08-16 18:38:48.207243 - Sapphire#8184: 
+2026-08-16 18:38:51.183346 - Sapphire#8184: 
+2026-08-16 18:39:07.592896 - lukekungfu: Ts is all ai btw
+2026-08-16 18:39:13.803989 - notarealcircle: Yk what
+2026-08-16 18:39:18.729881 - notarealcircle: /kill @e
+2026-08-16 18:39:30.242942 - lukekungfu: It not Minecraft
+2026-08-16 18:39:46.719121 - lukekungfu: And it’s @a I think
+2026-08-16 18:40:08.531025 - notarealcircle: Nuh uh
+2026-08-16 18:41:45.313644 - lukekungfu: Why it no working
+2026-08-16 18:42:12.946894 - lukekungfu: Why!
+2026-08-16 18:42:29.631067 - notarealcircle: ?
+2026-08-16 18:42:32.727900 - lukekungfu: Phoenix ain’t working
+2026-08-16 18:42:37.010970 - notarealcircle: Oh
+2026-08-16 18:42:52.678343 - notarealcircle: I had to ban it bc so it wouldn’t finish deleting the 815 messages
+2026-08-16 18:42:55.728564 - notarealcircle: That mason made it so
+2026-08-16 18:42:58.105610 - notarealcircle: Do*
+2026-08-16 18:43:23.500962 - lukekungfu: Oh
+2026-08-16 18:43:24.831755 - lukekungfu: K
+2026-08-16 19:42:57.134726 - notarealcircle: https://klipy.com/gifs/seahawks-seattle-1
+2026-08-16 19:43:03.513195 - notarealcircle: https://klipy.com/gifs/spongebob-patrick-110
+2026-08-16 21:33:13.236516 - notarealcircle: Yk
+2026-08-16 21:33:19.618068 - notarealcircle: They were always talking about that one guy
+2026-08-16 21:33:23.632020 - notarealcircle: From that one manga
+2026-08-16 21:33:23.632287 - european_pancakes: I don't
+2026-08-16 21:33:27.195514 - european_pancakes: Who
+2026-08-16 21:33:29.093607 - notarealcircle: Ykw nvm
+2026-08-16 21:33:33.647113 - notarealcircle: Benjamin or smth
+2026-08-16 21:33:35.672003 - notarealcircle: Idk
+2026-08-16 21:33:40.814690 - european_pancakes: Franklin?
+2026-08-16 21:33:43.273273 - notarealcircle: <@1138621441345065060>
+2026-08-16 21:33:53.736515 - notarealcircle: Who’s the guy who walks of the stair sun that one manga
+2026-08-16 21:33:59.555115 - notarealcircle: And it’s his birthday on timtok
+2026-08-16 21:34:02.421428 - notarealcircle: <@1138621441345065060>
+2026-08-16 21:34:04.943734 - notarealcircle: <@1351684877346410587>
+2026-08-16 21:34:05.035964 - mrnodrippmason: daniel
+2026-08-16 21:34:08.257978 - european_pancakes: Happy day daniel
+2026-08-16 21:34:08.551303 - notarealcircle: Yea thag guy
+2026-08-16 21:34:38.735987 - european_pancakes: Did you really think I'd let this day pass quietly
+2026-08-16 21:34:54.250713 - defrealedwardrob_92568: ?
+2026-08-16 21:34:54.952860 - defrealedwardrob_92568: what
+2026-08-16 21:34:58.402979 - defrealedwardrob_92568: danial
+2026-08-16 21:35:00.210736 - notarealcircle: Nevermind
+2026-08-16 21:35:00.239602 - defrealedwardrob_92568: daniel
+2026-08-16 21:40:05.123733 - european_pancakes: Something I find strange are those anime sports where its like baseball or golf, and there's goddam kamehameha blasts or superpowers and shi. Like..  wha?
+2026-08-16 23:12:15.261184 - lukekungfu: It’s anime…
+2026-08-16 23:12:29.186873 - defrealedwardrob_92568: food wars is so pewak
+2026-08-16 23:13:00.010728 - notarealcircle: https://klipy.com/gifs/theres-no-limit-to-the-larp-flight
+2026-08-16 23:13:18.953494 - notarealcircle: What is wrong with discord
+2026-08-16 23:13:37.254615 - lukekungfu: Tf did u do!?!
+2026-08-16 23:13:40.149904 - notarealcircle: ;yttl
+2026-08-16 23:45:20.590293 - notarealcircle: ;yttl
+2026-08-16 23:45:21.966419 - notarealcircle: ;yttl
+2026-08-16 23:45:23.194497 - notarealcircle: ;yttl
+2026-08-16 23:45:24.218589 - notarealcircle: ;yttl
+2026-08-16 23:45:25.242259 - notarealcircle: ;yttl
+2026-08-16 23:45:33.131634 - notarealcircle: .purge 5 <@1315852798742757471>
+2026-08-16 23:45:34.004536 - Sapphire#8184: 
+2026-08-16 23:48:51.083232 - notarealcircle: who did this
+2026-08-16 23:48:53.012825 - notarealcircle: i think
+2026-08-16 23:48:55.717332 - defrealedwardrob_92568: assaf
+2026-08-16 23:48:55.741715 - notarealcircle: it was <@1351684877346410587>
+2026-08-16 23:48:56.904529 - notarealcircle: or ai
+2026-08-16 23:49:01.307367 - defrealedwardrob_92568: it was ai
+2026-08-16 23:49:02.488535 - defrealedwardrob_92568: or assaf
+2026-08-16 23:49:06.730357 - notarealcircle: sure
+2026-08-16 23:49:12.005757 - defrealedwardrob_92568: why would i ever do that
+2026-08-17 00:13:33.005834 - notarealcircle: 
+2026-08-17 00:14:08.846039 - Nekotina#0608: ❤️ | The name of the ship is **Suste** <:nk:1263651495081939068>
+❤️ | The compatibility is **37%**
+2026-08-17 00:14:30.145446 - Nekotina#0608: ❤️ | The name of the ship is **Oatei** <:nk:1263651495081939068>
+❤️ | The compatibility is **67%**
+2026-08-17 00:14:39.361008 - oatnh: Sixxxty sevvven
+2026-08-17 00:18:34.370907 - fallout_fan_15: 
+2026-08-17 00:19:15.637597 - Nekotina#0608: ❤️ | The name of the ship is **Susna** <:nk:1263651495081939068>
+❤️ | The compatibility is **55%**
+2026-08-17 00:19:33.566424 - notarealcircle: didnt you js call <@1274180379036614750> a furry?
+2026-08-17 00:19:36.629719 - notarealcircle: the other day
+2026-08-17 00:19:40.439948 - notarealcircle: anwya
+2026-08-17 00:19:43.483435 - Nekotina#0608: ❤️ | The name of the ship is **Ralng** <:nk:1263651495081939068>
+❤️ | The compatibility is **92%**
+2026-08-17 00:19:57.519178 - lukekungfu: The wind
+2026-08-17 00:20:05.371291 - Nekotina#0608: ❤️ | The name of the ship is **Sapna** <:nk:1263651495081939068>
+❤️ | The compatibility is **46%**
+2026-08-17 00:20:15.234863 - Nekotina#0608: ❤️ | The name of the ship is **Nekre** <:nk:1263651495081939068>
+❤️ | The compatibility is **60%**
+2026-08-17 00:20:16.741137 - Nekotina#0608: ❤️ | The name of the ship is **Garre** <:nk:1263651495081939068>
+❤️ | The compatibility is **22%**
+2026-08-17 00:20:27.285363 - Nekotina#0608: ❤️ | The name of the ship is **Garry** <:nk:1263651495081939068>
+❤️ | The compatibility is **45%**
+2026-08-17 00:21:05.513444 - Nekotina#0608: ❤️ | The name of the ship is **Gaste** <:nk:1263651495081939068>
+❤️ | The compatibility is **82%**
+2026-08-17 00:21:23.535426 - Nekotina#0608: ❤️ | The name of the ship is **Gasr⚫** <:nk:1263651495081939068>
+❤️ | The compatibility is **65%**
+2026-08-17 00:21:41.763149 - Nekotina#0608: ❤️ | The name of the ship is **Gasr⚫** <:nk:1263651495081939068>
+❤️ | The compatibility is **82%**
+2026-08-17 00:21:43.196615 - Nekotina#0608: ❤️ | The name of the ship is **Sapre** <:nk:1263651495081939068>
+❤️ | The compatibility is **73%**
+2026-08-17 00:21:54.563137 - Nekotina#0608: ❤️ | The name of the ship is **Lanne** <:nk:1263651495081939068>
+❤️ | The compatibility is **10%**
+2026-08-17 00:21:57.430014 - notarealcircle: ;log-secret
+2026-08-17 00:22:17.090916 - fallout_fan_15: ;logsecret
+2026-08-17 00:22:38.697281 - notarealcircle: why is phoenix offline
+2026-08-17 00:22:53.545717 - Nekotina#0608: ❤️ | The name of the ship is **Ralei** <:nk:1263651495081939068>
+❤️ | The compatibility is **91%**
+2026-08-17 00:22:56.177508 - fallout_fan_15: It no even in the server rn
+2026-08-17 00:23:17.302793 - fallout_fan_15: Inaccurate
+2026-08-17 00:23:34.499762 - Nekotina#0608: ❤️ | The name of the ship is **Rorng** <:nk:1263651495081939068>
+❤️ | The compatibility is **42%**
+2026-08-17 00:23:38.500101 - Nekotina#0608: ❤️ | The name of the ship is **Rorte** <:nk:1263651495081939068>
+❤️ | The compatibility is **67%**
+2026-08-17 00:23:47.920185 - notarealcircle: <@1524574205687894099>
+2026-08-17 00:23:52.323857 - Nekotina#0608: ❤️ | The name of the ship is **Susay** <:nk:1263651495081939068>
+❤️ | The compatibility is **66%**
+2026-08-17 00:23:53.962142 - notarealcircle: lets do it here
+2026-08-17 00:24:00.671278 - Nekotina#0608: ❤️ | The name of the ship is **Tupay** <:nk:1263651495081939068>
+❤️ | The compatibility is **91%**
+2026-08-17 00:24:15.056957 - Nekotina#0608: 
+2026-08-17 00:24:27.909669 - fallout_fan_15: Im yandere for someone
+2026-08-17 00:24:28.266025 - Nekotina#0608: ❤️ | The name of the ship is **Gasry** <:nk:1263651495081939068>
+❤️ | The compatibility is **18%**
+2026-08-17 00:24:31.337968 - fallout_fan_15: Hahaha
+2026-08-17 00:24:53.800565 - Nekotina#0608: 
+2026-08-17 00:25:01.956030 - notarealcircle: true
+2026-08-17 00:25:04.311159 - Nekotina#0608: ❤️ | The name of the ship is **Tupay** <:nk:1263651495081939068>
+❤️ | The compatibility is **87%**
+2026-08-17 00:25:05.846907 - Nekotina#0608: gubby
+2026-08-17 00:25:14.448877 - Nekotina#0608: ❤️ | The name of the ship is **Noeox** <:nk:1263651495081939068>
+❤️ | The compatibility is **86%**
+2026-08-17 00:25:27.044345 - Nekotina#0608: ❤️ | The name of the ship is **Garox** <:nk:1263651495081939068>
+❤️ | The compatibility is **84%**
+2026-08-17 00:25:44.555029 - notarealcircle: yo
+2026-08-17 00:25:46.854621 - notarealcircle: tupperbox
+2026-08-17 00:25:52.018031 - notarealcircle: is hollowknight
+2026-08-17 00:25:53.462958 - notarealcircle: theoiory
+2026-08-17 00:25:58.582959 - notarealcircle: <@&1536538547081715842>
+2026-08-17 00:26:23.876137 - fallout_fan_15: Why tf does Phoenix not work
+2026-08-17 00:26:23.879929 - notarealcircle: <yea its true i like <@431544605209788416> >
+2026-08-17 00:26:24.272124 - Nekotina#0608: ❤️ | The name of the ship is **Lanry** <:nk:1263651495081939068>
+❤️ | The compatibility is **26%**
+2026-08-17 00:26:24.272378 - 毛澤東#0000: yea its true i like <@431544605209788416>
+2026-08-17 00:26:29.476146 - notarealcircle: i knew it
+2026-08-17 00:26:41.912270 - notarealcircle: clankers dont go with people
+2026-08-17 00:26:44.663290 - notarealcircle: theyre only like
+2026-08-17 00:26:46.552813 - notarealcircle: 3/5 a person
+2026-08-17 00:26:46.685053 - fallout_fan_15: Wait
+2026-08-17 00:26:47.940274 - lukekungfu: Totally not Tbox
+2026-08-17 00:26:55.415525 - notarealcircle: .purge 4 <@1315852798742757471>
+2026-08-17 00:26:56.286721 - Sapphire#8184: 
+2026-08-17 00:27:03.607467 - fallout_fan_15: Who the hell is 15goldensonic
+2026-08-17 00:27:05.479959 - notarealcircle: yea
+2026-08-17 00:27:06.556874 - notarealcircle: ts not ai
+2026-08-17 00:27:11.697583 - notarealcircle: ❤️‍🩹
+2026-08-17 00:27:20.318804 - Nekotina#0608: ❤️ | The name of the ship is **Sapte** <:nk:1263651495081939068>
+❤️ | The compatibility is **79%**
+2026-08-17 00:28:31.979080 - notarealcircle: It’s offline
+2026-08-17 00:28:34.697515 - notarealcircle: Idk why
+2026-08-17 00:28:41.912114 - fallout_fan_15: How does a bot go offline
+2026-08-17 00:28:53.854368 - notarealcircle: Probably under maintenance
+2026-08-17 00:28:56.247825 - notarealcircle: Or smth
+2026-08-17 00:29:20.005054 - lukekungfu: Idk
+2026-08-17 00:32:59.237985 - notarealcircle: <:ts_2:1537679945747136582> <:ts_2:1537679945747136582> <:ts_2:1537679945747136582> <:ts_2:1537679945747136582> <:ts_2:1537679945747136582> <:ts_2:1537679945747136582>
+2026-08-17 01:20:06.111559 - fallout_fan_15: https://klipy.com/gifs/cartoon-network-un-show-mas
+2026-08-17 01:21:16.051490 - notarealcircle: https://klipy.com/gifs/entry-17-ps6
+2026-08-17 01:23:03.265042 - defrealedwardrob_92568: https://klipy.com/gifs/israel-netanyahu
+2026-08-17 01:23:59.380605 - mrnodrippmason: https://klipy.com/gifs/sigma-joker
+2026-08-17 02:21:57.734930 - mrnodrippmason: @everyone vc
+2026-08-17 02:22:15.380774 - defrealedwardrob_92568: i am
+2026-08-17 02:22:48.202421 - mrnodrippmason: wait nvm
+2026-08-17 02:22:49.431157 - mrnodrippmason: sorry
+2026-08-17 02:22:54.653468 - mrnodrippmason: like 39 min
+2026-08-17 02:23:45.648100 - fallout_fan_15: Sure
+2026-08-17 02:23:57.630324 - fallout_fan_15: @ me when I should join
+2026-08-17 02:24:11.357331 - mrnodrippmason: alr
+2026-08-17 02:53:45.712351 - mrnodrippmason: <@1274180379036614750> <@1351684877346410587> vc
+2026-08-17 02:53:53.940274 - fallout_fan_15: Gimme like 10
+2026-08-17 02:54:01.311556 - mrnodrippmason: 👍
+2026-08-17 02:54:06.574122 - mrnodrippmason: we should play the goobie game
+2026-08-17 03:00:09.237112 - mrnodrippmason: i’ll just wait in call
+2026-08-17 03:01:20.200418 - fallout_fan_15: 
+2026-08-17 03:01:36.687463 - fallout_fan_15: Mason
+2026-08-17 03:01:40.612063 - mrnodrippmason: ❤️‍🩹
+2026-08-17 03:01:42.205887 - fallout_fan_15: Join stream room
+2026-08-17 03:01:43.719103 - mrnodrippmason: or idk
+2026-08-17 03:01:52.456410 - fallout_fan_15: Ill be on in a minute
+2026-08-17 03:12:23.140288 - mrnodrippmason: I’m leaving for good.
+2026-08-17 03:12:33.113566 - notarealcircle: Why
+2026-08-17 03:13:11.432204 - notarealcircle: Why did he leave
+2026-08-17 03:19:22.891457 - mrnodrippmason: @everyone Do not try contacting me. I am sick of everything. Only contact me if you have a streak with me on tiktok. Goodbye.
+2026-08-17 03:19:45.408926 - Dyno#3861: 
+2026-08-17 03:19:53.805355 - mrnodrippmason: @everyone Do not try contacting me. I am sick of everything. Only contact me if you have a streak with me on tiktok. Goodbye.
+2026-08-17 03:29:43.221706 - notarealcircle: ;log-secret
+2026-08-17 03:31:18.249989 - notarealcircle: mrnodrippmason: @ everyone Do not try contacting me. I am sick of everything. Only contact me if you have a streak with me on tiktok. Goodbye.
+2026-08-17 03:31:22.195256 - notarealcircle: What caused this
+2026-08-17 03:31:28.594784 - notarealcircle: @everyone does anyone know
+2026-08-17 03:51:34.267909 - mrnodrippmason: 
+2026-08-17 03:51:41.934462 - european_pancakes: Hi
+2026-08-17 05:23:34.913630 - european_pancakes: Evil ass villain btw
+2026-08-17 05:23:37.905466 - european_pancakes: 
+2026-08-17 05:24:02.216938 - defrealedwardrob_92568: that chair would be tuff tho
+2026-08-17 05:24:04.050066 - defrealedwardrob_92568: https://en.wikipedia.org/wiki/Galileo_affair
+2026-08-17 20:42:38.917450 - lukekungfu: So imma say I’m Red
+2026-08-17 20:58:00.390813 - notarealcircle: What’s that wevsite
+2026-08-18 02:08:15.055216 - european_pancakes: There are so many videos of NYC being a fun ass place rn
+2026-08-18 02:08:54.514598 - european_pancakes: And mamdani speaking mandarin, and spanish and a think the language that I forgot, it uses circles as its alphabet, spoken in SE asia
+2026-08-18 02:09:19.296992 - european_pancakes: Hindi?
+2026-08-18 02:14:46.776490 - notarealcircle: <:ts_2:1537679945747136582>
+2026-08-18 02:26:57.521743 - ender2463: https://klipy.com/gifs/911-nineeleven
+2026-08-18 03:38:43.421934 - notarealcircle: https://youtube.com/shorts/h3iQRXCCTdM?si=Dta34hNt72uTgzj9
+2026-08-18 03:38:52.420531 - defrealedwardrob_92568: https://cdn.discordapp.com/attachments/1276949986227126397/1326239280921837599/togif.gif
+2026-08-18 04:16:11.821793 - fallout_fan_15: https://klipy.com/gifs/checkmate-19
+2026-08-18 04:27:44.866726 - defrealedwardrob_92568: me to la you
+2026-08-18 04:28:02.887079 - testingthings0107_29151: we should join the vc
+2026-08-18 04:28:10.670182 - testingthings0107_29151: and do the thing like yesterday
+2026-08-18 04:28:20.452703 - defrealedwardrob_92568: cant
+2026-08-18 04:28:24.005695 - testingthings0107_29151: k
+2026-08-18 04:28:25.825648 - ender2463: https://klipy.com/gifs/astolfo-astolfo-anime-1
+2026-08-18 04:44:41.973074 - notarealcircle: ;send-current-set-message
+2026-08-18 15:09:01.405157 - lukekungfu: .warn <@1315852798742757471> won’t stop ruining my day
+2026-08-18 15:09:02.765401 - Sapphire#8184: 
+2026-08-18 18:52:09.520460 - notarealcircle: .warn  1524574205687894099 ts RUINed my day <:ts_2:1537679945747136582> <:ts_2:1537679945747136582>
+2026-08-18 18:52:11.251822 - Sapphire#8184: 
+2026-08-18 18:52:38.460309 - notarealcircle: .warn 1524574205687894099 stop admin abusing I would never do such a thing /j
+2026-08-18 18:52:38.942548 - Sapphire#8184: 
+2026-08-18 18:52:41.417622 - Sapphire#8184: 
+2026-08-18 18:52:48.673922 - notarealcircle: .purge 2
+2026-08-18 18:52:50.061728 - Sapphire#8184: 
+2026-08-19 00:42:58.037506 - notarealcircle: .warn <@1524574205687894099> trying to use the bot in the I messages chat
+2026-08-19 00:42:59.058897 - Sapphire#8184: 
+2026-08-19 00:43:06.647704 - notarealcircle: .list warns
+2026-08-19 00:43:07.185993 - Sapphire#8184: 
+2026-08-19 00:43:25.698705 - notarealcircle: .log
+2026-08-19 00:43:26.145360 - Sapphire#8184: 
+2026-08-19 00:43:29.816193 - lukekungfu: .warn <@1315852798742757471> using the bot first
+2026-08-19 00:43:30.737623 - Sapphire#8184: 
+2026-08-19 00:43:43.128323 - lukekungfu: U used it first
+2026-08-19 00:43:49.374592 - notarealcircle: .warn Gaster the pirate jr in the original       Starwalker
+2026-08-19 00:43:50.091326 - Sapphire#8184: 
+2026-08-19 00:43:58.386184 - Sapphire#8184: 
+2026-08-19 00:44:52.862505 - lukekungfu: warn <@1315852798742757471> for impersonating Gaster
+2026-08-19 00:45:44.370089 - lukekungfu: .warn <@1315852798742757471> impersonating Gaster
+2026-08-19 00:45:44.677669 - Sapphire#8184: 
+2026-08-19 00:45:47.831358 - Sapphire#8184: 
+2026-08-19 00:45:50.932590 - notarealcircle: ;send-current-set-message
+2026-08-19 00:46:41.201783 - lukekungfu: .make <@1315852798742757471> lose his j*b
+2026-08-19 00:46:41.816753 - Sapphire#8184: 
+2026-08-19 00:47:03.115533 - lukekungfu: .help
+2026-08-19 00:47:03.729775 - Sapphire#8184: 
+2026-08-19 00:48:00.756549 - lukekungfu: I have a dumb idea
+2026-08-19 00:48:21.349760 - lukekungfu: .warn <@678344927997853742> letting people warn other people
+2026-08-19 00:48:21.964438 - Sapphire#8184: 
+2026-08-19 02:17:57.765748 - european_pancakes: 
+2026-08-19 04:55:26.018807 - notarealcircle: <@&1537477375816765613>
+2026-08-19 04:55:37.194092 - notarealcircle: ;purge 2
+2026-08-19 04:55:46.293552 - notarealcircle: ;clean 3
+2026-08-19 04:55:47.420127 - european_pancakes: I wonder who that is?
+2026-08-19 04:55:54.178636 - notarealcircle: ;yttl
+2026-08-19 04:56:00.936867 - notarealcircle: It’s le assaf
+2026-08-19 04:56:27.151417 - notarealcircle: <:ts_2:1537679945747136582>
+2026-08-19 04:56:53.374394 - notarealcircle: So uh we not gonna talk abt why Ralsei likes being stepped on
+2026-08-19 04:57:07.907142 - ender2463: What
+2026-08-19 04:57:22.441843 - notarealcircle: ;larp
+2026-08-19 04:57:31.560808 - notarealcircle: Hmm ima make that a command
+2026-08-19 04:57:39.506842 - notarealcircle: https://klipy.com/gifs/theres-no-limit-to-the-larp-flight
+2026-08-19 05:00:49.807864 - notarealcircle: ;larp
+2026-08-19 05:00:56.380354 - notarealcircle: .clean 4
+2026-08-19 05:00:57.285035 - Sapphire#8184: 
+2026-08-19 05:01:06.328442 - notarealcircle: ;clean 3
+2026-08-20 00:00:34.084642 - notarealcircle: 
+2026-08-20 00:01:05.412192 - ender2463: Lucas made me take it too
+2026-08-20 00:01:09.599580 - ender2463: I got green
+2026-08-20 00:01:13.879249 - ender2463: Idk what that means
+2026-08-20 00:01:15.351458 - ender2463: But fun
