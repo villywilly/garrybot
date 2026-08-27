@@ -644,3 +644,20 @@ If you're trying to delete a tupper, use the ``tul!remove`` command instead.
 2026-08-26 05:00:11.788266 - notarealcircle: <@1524574205687894099>
 2026-08-26 05:00:17.118260 - defrealedwardrob_92568: AI
 2026-08-26 05:00:22.750770 - defrealedwardrob_92568: https://klipy.com/gifs/jagmort-jagtington-1
+2026-08-27 00:58:41.404240 - notarealcircle: ;say “lock in”
+2026-08-27 01:00:00.250867 - notarealcircle: ;say “lock in”
+2026-08-27 01:00:36.255107 - Nekotina#0608: 
+2026-08-27 01:00:36.851603 - Nekotina#0608: 
+2026-08-27 01:00:40.494353 - Nekotina#0608: 
+2026-08-27 01:00:44.961350 - Nekotina#0608: 
+2026-08-27 01:00:58.721299 - notarealcircle: ;say “ab”
+2026-08-27 01:01:53.532179 - notarealcircle: ;say “test”
+2026-08-27 01:02:26.580971 - notarealcircle: ;say 1
+2026-08-27 01:05:15.644221 - notarealcircle: ;say 1
+2026-08-27 01:10:19.568573 - notarealcircle: ;say giasfelfgreherbfksowf
+2026-08-27 01:10:32.908881 - notarealcircle: ;say
+2026-08-27 01:11:15.479556 - notarealcircle: ;say “Gucas is lay”
+2026-08-27 01:15:34.353508 - notarealcircle: ;say “Gucas is still lay”
+2026-08-27 01:16:47.689781 - notarealcircle: ;say “lock in”
+2026-08-27 01:25:57.567884 - notarealcircle: ;say “chic siso”
+2026-08-27 01:26:02.141500 - notarealcircle: Nvm

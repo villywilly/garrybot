@@ -1,14 +1,14 @@
 from email import message
 from fileinput import filename
 
-import discord
-import time
+import discord, shlex
+import time, json, subprocess
 import sys, datetime, os
 from dotenv import load_dotenv
 load_dotenv()
 token = os.getenv("TOKEN")
 async def dm(usr, msg):
-	user = client.get_user(usr)  # Replace user_id with the actual user's ID
+	user = client.get_user(usr)  
 	await user.send(msg)
 
 try:
@@ -17,7 +17,6 @@ try:
 except:
     setmessage = "`Uh oh there is not a set message yet`"
     print("No message recieved from sys, using default message.")
-
 
 #setmessage = "`Uh oh there is not a set message yet`"
 def log(messg, filename):
@@ -36,6 +35,9 @@ def log(messg, filename):
 class MyClient(discord.Client):
     async def on_ready(self):
         print('Logged on as', self.user)
+        with open ("settings.json","r") as file:
+            localsettings=json.load(file)
+
 
     async def on_message(self, message):
         # don't respond to ourselves
@@ -45,6 +47,14 @@ class MyClient(discord.Client):
         print(f"{message.author}: {message.content}")
         #for i in range(5):
             #    await message.channel.send(f"@everyone Uh oh someone said cracker! {i}")
+        if message.content.split()[0] == ";say":
+            try:
+                replaced = message.content.replace(""", """).replace(""", """).replace("'", "'").replace("'", "'")
+                args = shlex.split(message.content)
+                msg=args[1]
+                await message.channel.send(msg)
+            except:
+               await message.channel.send("Usage: ;say [MESSAGE]")
         if message.content == ";larp":
             await message.channel.send(" https://klipy.com/gifs/theres-no-limit-to-the-larp-flight")
         if message.content == ";dbgg":
@@ -81,6 +91,8 @@ class MyClient(discord.Client):
           await message.channel.send(";ls") - lists all commands
           await message.channel.send(";dbgg") - sends a gif of du bist gut genug
           await message.channel.send(";send-current-set-message) - sends the current set message
+          ;larp - theres no limit to the larp
+          ;say [message] - sends a message
           ===Moderation commands===
           ;log-secret - sends the log file to the user in a dm
           ;log-public - sends the log file to the channel
